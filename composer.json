@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/CodebyDave-web/Coalesce-Project.git"
+        }
+    ],
+    "require": {
+        "CodebyDave-web/Coalesce": "dev-master"
+    }
+}
