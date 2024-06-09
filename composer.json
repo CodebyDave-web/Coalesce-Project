@@ -1,11 +1,17 @@
 {
-    "repositories": [
+    "name": "your-vendor-name/your-package-name",
+    "description": "Description of your package",
+    "type": "library",
+    "keywords": ["keyword1", "keyword2"],
+    "license": "MIT",
+    "authors": [
         {
-            "type": "vcs",
-            "url": "https://github.com/CodebyDave-web/Coalesce-Project.git"
+            "name": "Your Name",
+            "email": "your.email@example.com"
         }
     ],
     "require": {
-        "CodebyDave-web/Coalesce": "dev-master"
+        "php": "^7.4",
+        "vendor/package": "^1.0" // Example of a dependency
     }
 }
