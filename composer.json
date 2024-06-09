@@ -12,6 +12,6 @@
     ],
     "require": {
         "php": "^7.4",
-        "vendor/package": "^1.0" // Example of a dependency
+        "vendor/package": "^1.0" 
     }
 }
